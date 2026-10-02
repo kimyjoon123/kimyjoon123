@@ -80,7 +80,6 @@
 ## 📌 Currently Building
 
 <p>
-  <img src="https://img.shields.io/badge/Image--Based_Recommendations-000000?style=flat-square" alt="Image-Based Recommendations"/>
   <img src="https://img.shields.io/badge/Running_Course_System-000000?style=flat-square" alt="Running Course System"/>
 </p>
 
