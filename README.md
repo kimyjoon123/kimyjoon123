@@ -2,8 +2,8 @@
 
 ### AI / ML Explorer · Web Developer · Building Data-Driven Services
 
-<a href="mailto:a51994792@gmail.com">
-  <img src="https://img.shields.io/badge/Email-a51994792%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:kamyaa729@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kamyaa729%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/kimyjoon123">
   <img src="https://img.shields.io/badge/GitHub-kimyjoon123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -15,10 +15,9 @@
 
 - 🎓 Third-year student in **Computer Science and Engineering at Pusan National University**
 - 🇰🇷 Born in **2003** · Based in the **Republic of Korea**
-- 🔭 Currently building an **image-based running course recommendation system**
 - 🧠 Interested in **AI / ML, data analysis, and web development**
 - 🛠️ Building projects with **Python, PyTorch, React, NestJS, and Firebase**
-- 📫 Contact: **a51994792@gmail.com**
+- 📫 Contact: **kamyaa729@gmail.com**
 
 ---
 
