@@ -25,6 +25,15 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>♿ 2026 DIVE Hackathon · 3rd Place</h3>
+      <p>Built a decision-support platform for barrier-free infrastructure in the Busan Facilities Corporation × Wheelchair track. I focused on spatial analysis and priority scoring using mobility demand and facility data.</p>
+      <a href="https://github.com/kimyjoon123/2026-DIVE">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View 2026 DIVE Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎮 Game Log Project</h3>
       <p>A social web service for recording game sessions, viewing play statistics, and connecting through comments and follows. I worked on the frontend.</p>
@@ -36,15 +45,6 @@
       <h3>🏃 Image-Based Running Course Recommendation</h3>
       <p>A system that recommends running courses using images. Currently in development.</p>
       <img src="https://img.shields.io/badge/In_Progress-2E8B57?style=flat-square" alt="In Progress"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>♿ 2026 DIVE Hackathon · 3rd Place</h3>
-      <p>Built a decision-support platform for barrier-free infrastructure in the Busan Facilities Corporation × Wheelchair track. I focused on spatial analysis and priority scoring using mobility demand and facility data.</p>
-      <a href="https://github.com/kimyjoon123/2026-DIVE">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View 2026 DIVE Project"/>
-      </a>
     </td>
   </tr>
 </table>
