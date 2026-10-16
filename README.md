@@ -16,7 +16,7 @@
 - 🎓 Third-year student in **Computer Science and Engineering at Pusan National University**
 - 🇰🇷 Born in **2003** · Based in the **Republic of Korea**
 - 🧠 Interested in **AI / ML, data analysis, and web development**
-- 🛠️ Building projects with **Python, PyTorch, React, NestJS, and Firebase**
+- 🛠️ Building projects with **Python, C++, PyTorch, React, NestJS, and Firebase**
 - 📫 Contact: **kamyaa729@gmail.com**
 
 ---
@@ -52,6 +52,12 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
 
 ### AI / ML
 
